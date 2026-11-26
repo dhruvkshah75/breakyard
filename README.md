@@ -4,7 +4,7 @@
 
 Breakyard is a planned Linux CLI for developers who want to find out how their own backend behaves when a dependency slows down. The experiment runs locally, uses disposable data, and produces a report you can share with someone reviewing a fix.
 
-**Design phase.** The first milestone is measuring a single local HTTP request. This repository currently contains the design and acceptance tests for the planned milestones. [Read the roadmap](ROADMAP.md).
+**Design phase.** The first milestone is measuring a single local HTTP request. Read the [full product and engineering specification](SPEC.md) for the requirements, or the [roadmap](ROADMAP.md) for the build order and acceptance criteria.
 
 ## The first experiment
 
