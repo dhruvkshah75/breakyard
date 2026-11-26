@@ -1,0 +1,20 @@
+# Local builds
+/bin/
+/dist/
+/breakyard
+*.test
+coverage.out
+
+# Local experiment output
+/.breakyard/
+/reports/
+
+# Machine-specific data and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+/.aws/
+/.agents/
+/.codex/
